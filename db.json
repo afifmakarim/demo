@@ -1,5 +1,5 @@
 {
-  "sqeservice": [
+  "sqeservice":
     {
       "data": [
         {
@@ -15,9 +15,8 @@
         "status": "success",
         "message": "data found"
       }
-    }
-  ],
-  "organisation": [
+    },
+  "organisation":
     {
       "data": [
         {
@@ -29,8 +28,7 @@
           "created_at": "2023-07-10T09:00:17.67005Z",
           "updated_at": "2023-07-10T09:00:17.67005Z",
           "deleted_at": null
-        }
-      ],
+        },
       "meta": {
         "code": 200,
         "status": "success",
